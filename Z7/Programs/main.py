@@ -1,0 +1,74 @@
+import task_1
+import task_2
+import task_3
+import task_4
+import task_5
+import task_6
+import task_7
+import task_8
+import task_9
+import task_10
+import task_11
+import task_12
+import task_13
+import task_14
+import task_15
+import task_16
+import task_17
+import task_18
+import task_19
+import task_20
+import task_21
+import task_22
+import task_23
+import task_24
+import task_25
+import task_26
+import task_27
+import task_28
+import task_29
+import task_30
+import task_31
+import task_32
+import task_33
+import task_34
+
+# D - dziala, O - opis
+# Zadania robione sa pod wartownika tzn pierwszy element listy to wartownik (lista = utils.collection()) gdy
+# przy inicjalizaji nie przekazujemy wartosc otrzymujemy wartownika
+
+if __name__ == '__main__':
+    #task_1.program() #DO
+    #task_2.program() #DO
+    #task_3.program() #DO
+    #task_4.program() #DO
+    #task_5.program() #DO
+    #task_6.program() #DO
+    #task_7.program() #DO
+    #task_8.program() #DO
+    #task_9.program() #DO
+    #task_10.program() #TODO
+    #task_11.program() #DO
+    #task_12.program() #DO
+    #task_13.program() #DO
+    #task_14.program() #DO
+    #task_15.program() #DO
+    #task_16.program() #DO
+    #task_17.program() #DO
+    #task_18.program() #DO
+    #task_19.program() #DO
+    #task_20.program() #TODO
+    #task_21.program() #TODO
+    #task_22.program() #DO
+    #task_23.program() #DO
+    task_24.program() #TODO
+    #task_25.program() #TODO
+    #task_26.program() #TODO
+    #task_27.program() #TODO
+    #task_28.program() #TODO
+    #task_29.program() #TODO
+    #task_30.program() #TODO
+    #task_31.program() #TODO
+    #task_32.program() #TODO
+    #task_33.program() #TODO
+    #task_34.program() #TODO
