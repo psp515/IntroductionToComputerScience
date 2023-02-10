@@ -39,15 +39,6 @@ Repository also contains few programs solving problems from ProjectEuler website
   </a>
 </div>
 
-
-### Getting Started
-
-Download repo instal python and PyCharm.
-
-### Usage 
-
-You may want to use it to see some Project Euler solutions or basic solutions for variable programming problems.
-
 ### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
